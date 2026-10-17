@@ -1,0 +1,17 @@
+body {
+        background-color: #8B1E26 !important; /* Matte Crimson Red */
+            color: #F7E7C4 !important;            /* Metallic Champagne Gold */
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                    margin: 0;
+                        padding: 40px 20px;
+                            display: flex;
+                                justify-content: center;
+                                    align-items: center;
+                                        min-height: 100vh;
+                                            scroll-behavior: smooth;
+                                            }
+
+                                            .container {
+                                                max-width: 900px;
+                                                }
+}
