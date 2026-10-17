@@ -2,7 +2,7 @@
 Welcome to my personal website project! This is a responsive, mermaid-themed personal page built using HTML and CSS, featuring custom frosted-glass info cards and a live weather widget.
 
 ## 🌐 Live Demo
-You can view my live website here: **[https://mduman31.github.io/myfirstwebsite/](https://mduman31.github.io/myfirstwebsite/)**
+You can view my live website here: **[https://mduman31.github.io/myfirstwebsite/](https://mduman31.github.io/Homework2_Stylingyoupage/)**
 
 ---
 
