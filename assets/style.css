@@ -1,8 +1,31 @@
 body {
-    background-color: #1a0b2e !important; /* Forces Deep Purple Background */
-    color: #e6c687 !important;            /* Forces Metallic Gold Text */
+    background-color: #0b132b;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #ffb6c1;
 }
-
-.card h2 {
-    color: #ffffff !important;            /* Forces White Text inside card titles */
+.info-card {
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    margin-bottom: 15px;
+    padding: 20px;
+    border: 1px solid rgba(255, 182, 193, 0.3);
+    border-radius: 8px;
+}
+#weather-widget {
+    border: 3px dashed #ffb6c1;
+    margin-top: 25px;
+    padding: 15px;
+    background-color: rgba(0, 206, 209, 0.1);
+}
+header h1 {
+    color: #ffb6c1;
+    margin-bottom: 5px;
+}
+#top-link {
+    color: #ffb6c1;
+    text-decoration: none;
+    font-weight: bold;
 }
